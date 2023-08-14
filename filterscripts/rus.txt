@@ -1,0 +1,12 @@
+D:\New Folder 3\filterscripts\mappings.pwn(608) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(1013) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(5829) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(11749) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tmpobjid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\New Folder 3\filterscripts\mappings.pwn(17303) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(17365) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(17416) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\New Folder 3\filterscripts\mappings.pwn(17460) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:1.

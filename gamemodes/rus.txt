@@ -1,0 +1,38 @@
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(117) : ïðåäóïðåæäåíèå 201: ïîâòîðíîå îáúÿâëåíèå êîíñòàíòû/ìàêðîñà (èäåíòèôèêàòîð "MYSQL_HOSTNAME")
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(118) : ïðåäóïðåæäåíèå 201: ïîâòîðíîå îáúÿâëåíèå êîíñòàíòû/ìàêðîñà (èäåíòèôèêàòîð "MYSQL_DATABASE")
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(119) : ïðåäóïðåæäåíèå 201: ïîâòîðíîå îáúÿâëåíèå êîíñòàíòû/ìàêðîñà (èäåíòèôèêàòîð "MYSQL_USERNAME")
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(120) : ïðåäóïðåæäåíèå 201: ïîâòîðíîå îáúÿâëåíèå êîíñòàíòû/ìàêðîñà (èäåíòèôèêàòîð "MYSQL_PASSWORD")
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(19283) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(20739) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(23064) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(23067) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(26000) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(26598) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(26751) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(26791) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(27544) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(27956) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(31249) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(31752) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(34831) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(35449) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(35682) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(36262) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(50004) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(50017) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(50025) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(50030) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(50043) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(59066) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(59068) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(62347) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(64549) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(64835) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(64891) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(66106) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(66108) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\EMPIRE RP - Copy\gamemodes\DL.pwn(66110) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:8.
